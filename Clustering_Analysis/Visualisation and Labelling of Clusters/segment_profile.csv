@@ -1,0 +1,5 @@
+Cluster,Segment,customers,avg_tenure,avg_monthly_charges,churn_rate,pct_fiber,pct_month_to_month,pct_senior,pct_dependents
+0,New High-Spenders (At Risk),2202,14.81,81.23,0.49,0.43,0.56,0.23,0.20
+1,New Budget Customers,1733,10.48,32.49,0.24,0.44,0.54,0.07,0.30
+2,Loyal Premium Customers,1948,58.76,93.08,0.16,0.45,0.55,0.22,0.33
+3,Loyal Budget Customers,1160,54.10,34.15,0.05,0.44,0.54,0.08,0.44
